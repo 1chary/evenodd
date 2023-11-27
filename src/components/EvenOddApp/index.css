@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+}
+.heading {
+  color: #0f172a;
+  font-size: 40px;
+  font-weight: bold;
+}
+.para {
+  color: #334155;
+  font-size: 28px;
+}
+.btn {
+  color: black;
+  background-color: white;
+  height: 30px;
+  width: 159px;
+}
